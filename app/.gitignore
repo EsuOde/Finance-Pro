@@ -1,0 +1,14 @@
+# Bancos de dados locais
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# VS Code / IDEs
+.vscode/
+.idea/
